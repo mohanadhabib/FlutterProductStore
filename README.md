@@ -1,6 +1,6 @@
-# login_app
+# FLutterProductStoreApp
 
-A new Flutter project.
+A Flutter App To Store and Add Info of Products
 
 ## Getting Started
 
