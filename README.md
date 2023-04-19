@@ -1,4 +1,4 @@
-# FLutterProductStoreApp
+# FlutterProductStoreApp
 
 A Flutter App To Store and Add Info of Products
 
